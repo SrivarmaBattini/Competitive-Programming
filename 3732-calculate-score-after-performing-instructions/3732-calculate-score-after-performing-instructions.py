@@ -15,9 +15,7 @@ class Solution:
             check.add(i)
             if leng == len(check):
                 break
-            # if i in check:
-            #     break
-            # check.append(i)
+            
 
         return ans
             
