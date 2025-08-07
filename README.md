@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0050-powx-n) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
