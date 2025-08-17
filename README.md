@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
