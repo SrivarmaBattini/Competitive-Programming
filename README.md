@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
+| [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
@@ -118,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
