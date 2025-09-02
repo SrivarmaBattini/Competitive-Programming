@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0099-recover-binary-search-tree) |
