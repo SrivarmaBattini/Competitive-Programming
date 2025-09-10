@@ -1,12 +1,22 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        k = len(nums)
-        i = 0
-        while i < len(nums):
-            if nums[i] == val:
-                k -= 1
-                nums.pop(i)
-            else: 
-                i += 1
         
+        i = j = 0
+
+        while j < len(nums):
+            if nums[j] == val:
+                j += 1
+            elif nums[j] != val and i == j:
+                i += 1
+                j += 1
+            else:
+                nums[i] = nums[j]
+                i += 1
+                j += 1
+            
+        k = i 
+        while i < j:
+            nums[i] = '_'
+            i += 1
+
         return k
