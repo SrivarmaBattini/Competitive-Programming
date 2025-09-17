@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
+| [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Recursion
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
+| [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
