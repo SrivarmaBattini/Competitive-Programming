@@ -8,24 +8,32 @@ class Solution:
         
         current = head
 
-        if not current or not current.next:
-            return head
-
         while current is not None and current.next is not None:
-
             if current.val == current.next.val:
-                node = current.next
-
-                while node is not None:
-                    if node.val == current.val:
-                        node = node.next
-                    else:
-                        current.next = node
-                        break
-                    
-                    if node is None:
-                        current.next = node
-            
-            current = current.next
-        
+                current.next = current.next.next
+            else:
+                current = current.next
         return head
+
+        
+        # if not current or not current.next:
+        #     return head
+
+        # while current is not None and current.next is not None:
+
+        #     if current.val == current.next.val:
+        #         node = current.next
+
+        #         while node is not None:
+        #             if node.val == current.val:
+        #                 node = node.next
+        #             else:
+        #                 current.next = node
+        #                 break
+                    
+        #             if node is None:
+        #                 current.next = node
+            
+        #     current = current.next
+        
+        # return head
