@@ -27,7 +27,7 @@ class Solution:
         
         second_half = reverse(slow)
 
-        while second_half and first_half:
+        while second_half:
             if second_half.val != first_half.val:
                 return False
             second_half = second_half.next
