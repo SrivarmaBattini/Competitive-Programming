@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0541-reverse-string-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
