@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
