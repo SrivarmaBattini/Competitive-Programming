@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-split-array-by-prime-indices](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3936-split-array-by-prime-indices) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Matrix
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
 | [3849-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3849-equal-sum-grid-partition-i) |
 ## Enumeration
