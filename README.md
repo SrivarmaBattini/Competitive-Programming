@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
@@ -391,4 +393,12 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
