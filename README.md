@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0112-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Two Pointers
 |  |
