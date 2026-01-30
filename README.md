@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0290-word-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Simulation
 |  |
