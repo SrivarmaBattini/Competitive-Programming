@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0144-binary-tree-preorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0144-binary-tree-preorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0144-binary-tree-preorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0111-minimum-depth-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Two Pointers
 |  |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0099-recover-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2187-minimum-time-to-complete-trips) |
