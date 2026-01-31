@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
