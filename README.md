@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0145-binary-tree-postorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0145-binary-tree-postorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0144-binary-tree-preorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0111-minimum-depth-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0559-maximum-depth-of-n-ary-tree) |
