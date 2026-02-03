@@ -28,7 +28,6 @@ class Solution:
                 break
         
         def fun(ind):
-            nonlocal nums
             for num in range(ind + 1, len(nums)):
                 if nums[num] <= nums[num - 1]:
                     return False
