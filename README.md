@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
+| [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3637-trionic-array-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Stack
