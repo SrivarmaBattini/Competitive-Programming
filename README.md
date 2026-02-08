@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
