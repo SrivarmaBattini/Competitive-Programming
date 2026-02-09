@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0392-is-subsequence) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0099-recover-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0744-find-smallest-letter-greater-than-target) |
