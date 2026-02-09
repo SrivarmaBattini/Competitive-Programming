@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2390-removing-stars-from-a-string) |
