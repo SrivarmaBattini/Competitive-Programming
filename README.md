@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0015-3sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0141-linked-list-cycle) |
