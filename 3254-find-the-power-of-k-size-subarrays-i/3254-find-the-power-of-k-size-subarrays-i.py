@@ -4,17 +4,18 @@ class Solution:
         if len(nums) == 1 or k == 1:
             return nums
         
+        streak = 1
         res = []
-        for i in range(len(nums) - k + 1):
-            flag = False
-            for j in range(i + 1, i + k):
-                if nums[j] != nums[j - 1] + 1:
-                    res.append(-1)
-                    flag = False
-                    break
-                else:
-                    flag = True
-            if flag:
-                res.append(nums[i + k - 1])
 
-        return res            
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i - 1] + 1:
+                streak += 1
+            else:
+                streak = 1
+            
+            if i >= k - 1:
+                if streak >= k:
+                    res.append(nums[i])
+                else:
+                    res.append(-1)
+        return res
