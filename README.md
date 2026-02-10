@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
 | [3849-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3849-equal-sum-grid-partition-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
+| [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Matrix
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3849-equal-sum-grid-partition-i) |
 ## Greedy
 |  |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0023-merge-k-sorted-lists](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -481,4 +485,8 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
