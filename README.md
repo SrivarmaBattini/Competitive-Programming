@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Graph Theory
 |  |
 | ------- |
