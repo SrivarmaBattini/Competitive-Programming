@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0027-remove-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0016-3sum-closest](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 ## Number Theory
 |  |
