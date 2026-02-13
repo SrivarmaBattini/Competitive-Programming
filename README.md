@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0016-3sum-closest](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
