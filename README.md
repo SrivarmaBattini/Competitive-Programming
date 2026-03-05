@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2124-check-if-all-as-appears-before-all-bs) |
