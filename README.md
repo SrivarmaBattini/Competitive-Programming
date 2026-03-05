@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0025-reverse-nodes-in-k-group](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0141-linked-list-cycle](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
