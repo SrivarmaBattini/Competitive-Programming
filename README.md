@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0124-binary-tree-maximum-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
