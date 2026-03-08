@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1980-find-unique-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1980-find-unique-binary-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0095-unique-binary-search-trees-ii) |
+| [1980-find-unique-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
