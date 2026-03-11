@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
+| [1009-complement-of-base-10-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1009-complement-of-base-10-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
