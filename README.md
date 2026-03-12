@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0012-integer-to-roman](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0099-recover-binary-search-tree) |
