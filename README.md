@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0095-unique-binary-search-trees-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
