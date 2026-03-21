@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
 | [3849-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3849-equal-sum-grid-partition-i) |
 ## Enumeration
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
 | ------- |
