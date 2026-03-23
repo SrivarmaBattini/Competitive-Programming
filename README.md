@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0392-is-subsequence) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
