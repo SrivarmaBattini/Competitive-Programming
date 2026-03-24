@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2187-minimum-time-to-complete-trips) |
+| [2906-construct-product-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0238-product-of-array-except-self](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2906-construct-product-matrix) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
