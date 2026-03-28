@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2185-counting-words-with-a-given-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2390-removing-stars-from-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2187-minimum-time-to-complete-trips) |
+| [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Divide and Conquer
@@ -604,6 +609,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
