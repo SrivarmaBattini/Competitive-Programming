@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0069-sqrtx](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
