@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3713-longest-balanced-substring-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3713-longest-balanced-substring-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3838-weighted-word-mapping](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3838-weighted-word-mapping) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Recursion
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
+| [3838-weighted-word-mapping](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3838-weighted-word-mapping) |
 | [3849-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3849-equal-sum-grid-partition-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-split-array-by-prime-indices](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3936-split-array-by-prime-indices) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3838-weighted-word-mapping](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3838-weighted-word-mapping) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Stack
 |  |
