@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2390-removing-stars-from-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
