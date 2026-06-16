@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0908-middle-of-the-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
