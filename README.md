@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0142-linked-list-cycle-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
