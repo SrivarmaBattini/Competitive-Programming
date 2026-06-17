@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2390-removing-stars-from-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
