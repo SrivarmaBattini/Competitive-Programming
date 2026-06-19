@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0777-toeplitz-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0053-maximum-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 ## Iterator
 |  |
 | ------- |
@@ -664,4 +668,8 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
