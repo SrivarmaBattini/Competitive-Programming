@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0344-reverse-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0035-search-insert-position](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0012-integer-to-roman](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0138-copy-list-with-random-pointer) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0015-3sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
