@@ -1,38 +1,42 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         
-        idx = -1
-        for i in range(len(nums)):
-            if nums[i] >= 0:
-                idx = i
+        pos = 0
+        n = len(nums)
+
+        for num in nums:
+            if num <= 0:
+                pos += 1
+            else:
                 break
 
-        if idx == -1:
-            i = len(nums) - 2
-            j = len(nums) - 1
-        else:
-            i = idx - 1
-            j = idx
-        res = []
+        if pos == n:
+            return [num * num for num in reversed(nums)]
 
-        while i >= 0 or j < len(nums):
-            
-            if i >= 0 and j < len(nums):
-                if abs(nums[i]) > abs(nums[j]):
-                    res.append(nums[j] ** 2)
-                    j += 1
-                else:
-                    res.append(nums[i] ** 2)
-                    i -= 1
-            elif i >= 0 and j >= len(nums):
-                res.append(nums[i] ** 2)
-                i -= 1
-            elif i < 0 and j < len(nums):
-                res.append(nums[j] ** 2)
-                j += 1
+        neg = pos - 1
+
+        while neg >= 0 and nums[neg] == 0:
+            neg -= 1
+
+        if neg == -1:
+            return [num * num for num in nums]
+
+        diff = pos - neg - 1
+        res = [0] * diff
+
+        while pos < n or neg >= 0:
+            if pos == n:
+                res.append(nums[neg] * nums[neg])
+                neg -= 1
+            elif neg == -1:
+                res.append(nums[pos] * nums[pos])
+                pos += 1
             else:
-                i -= 1
-                j += 1
-            
+                if nums[pos] < abs(nums[neg]):
+                    res.append(nums[pos] * nums[pos])
+                    pos += 1
+                else:
+                    res.append(nums[neg] * nums[neg])
+                    neg -= 1
 
         return res
