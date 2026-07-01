@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0095-unique-binary-search-trees-ii) |
