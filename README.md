@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0014-longest-common-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0344-reverse-string) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0143-reorder-list) |
