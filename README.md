@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
+| [0633-sum-of-square-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0443-string-compression](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
