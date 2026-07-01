@@ -1,19 +1,34 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        res = []
-        k = -1
-        for i in range(len(nums)):
-            if nums[i] == target and k == -1:
-                if len(res) == 0:
-                    res.append(i)
-                    k = i
-            
-            if k != -1 and res[0] != i and nums[i] == target:
-                k = i
+
+        n = len(nums)
+
+        first = -1
+        low, high = 0, n - 1
+        while low <= high:
+            mid = (low + high) // 2
+
+            if nums[mid] == target:
+                first = mid
+                high = mid - 1
+            elif nums[mid] > target:
+                high = mid - 1
+            else:
+                low = mid + 1
         
-            if len(nums)-1 == i:
-                if len(res) == 1:
-                    res.append(k)
-                else:
-                    res = [-1,-1]
-        return res if len(res) == 2 else [-1, -1]
+
+        last = -1
+        low, high = 0, n - 1
+        while low <= high:
+            mid = (low + high) // 2
+
+            if nums[mid] == target:
+                last = mid
+                low = mid + 1
+            elif nums[mid] > target:
+                high = mid - 1
+            else:
+                low = mid + 1
+        
+
+        return [first, last]
