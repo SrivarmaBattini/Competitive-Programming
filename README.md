@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
