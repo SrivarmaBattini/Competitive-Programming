@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0412-fizz-buzz](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0633-sum-of-square-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
+| [0670-maximum-swap](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
