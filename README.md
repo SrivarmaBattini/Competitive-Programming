@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0238-product-of-array-except-self](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0088-merge-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0179-largest-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
 | [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 ## Union-Find
 |  |
@@ -730,4 +733,8 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
