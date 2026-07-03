@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1108-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1328-break-a-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0670-maximum-swap](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1328-break-a-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1328-break-a-palindrome) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1710-maximum-units-on-a-truck) |
