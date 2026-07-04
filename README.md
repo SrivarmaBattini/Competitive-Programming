@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0541-reverse-string-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0856-score-of-parentheses) |
 | [0937-reorder-data-in-log-files](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0937-reorder-data-in-log-files) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1108-defanging-an-ip-address) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0856-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
