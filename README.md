@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0143-reorder-list) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0095-unique-binary-search-trees-ii) |
