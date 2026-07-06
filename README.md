@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0856-score-of-parentheses) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
