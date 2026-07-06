@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1598-crawler-log-folder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1598-crawler-log-folder) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0901-online-stock-span) |
 ## Number Theory
 |  |
 | ------- |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
+| [0901-online-stock-span](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -765,4 +768,8 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
