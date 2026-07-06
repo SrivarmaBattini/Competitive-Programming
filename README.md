@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0406-queue-reconstruction-by-height](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
+| [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0219-contains-duplicate-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0341-flatten-nested-list-iterator](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0856-score-of-parentheses) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
