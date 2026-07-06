@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
+| [0456-132-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0341-flatten-nested-list-iterator](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
@@ -772,4 +776,8 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
