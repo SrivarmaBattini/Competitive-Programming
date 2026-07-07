@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0035-search-insert-position](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0095-unique-binary-search-trees-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
