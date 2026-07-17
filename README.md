@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
+| [0875-koko-eating-bananas](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0875-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0937-reorder-data-in-log-files](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0937-reorder-data-in-log-files) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0704-binary-search](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0875-koko-eating-bananas](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
