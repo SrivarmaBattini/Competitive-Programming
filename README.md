@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0670-maximum-swap) |
+| [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
 | [0853-car-fleet](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 | [0917-boats-to-save-people](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0937-reorder-data-in-log-files](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0937-reorder-data-in-log-files) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0124-binary-tree-maximum-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -810,4 +813,5 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
