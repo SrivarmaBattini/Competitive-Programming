@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0670-maximum-swap](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -814,4 +817,13 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
