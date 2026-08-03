@@ -21,14 +21,7 @@ class Solution:
                     nr = r + dr
                     nc = c + dc
                     
-                    if 0 <= nr < n and 0 <= nc < m:
-
-                        if (nr, nc) in visited:
-                            continue
-                        
-                        if grid[nr][nc] == "0":
-                            continue
-                        
+                    if 0 <= nr < n and 0 <= nc < m and (nr, nc) not in visited and grid[nr][nc] == "1":
                         visited.add((nr, nc))
                         queue.append((nr, nc))
         
