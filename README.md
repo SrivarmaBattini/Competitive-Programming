@@ -831,9 +831,11 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
