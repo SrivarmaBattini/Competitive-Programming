@@ -4,7 +4,7 @@ class Solution:
         
         n = len(stoneValue)
 
-        @lru_cache
+        @lru_cache(maxsize=None)
         def dfs(i):
             if i >= n:
                 return 0
