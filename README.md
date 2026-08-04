@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0036-valid-sudoku](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
+| [0130-surrounded-regions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0111-minimum-depth-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0200-number-of-islands) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0104-maximum-depth-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
