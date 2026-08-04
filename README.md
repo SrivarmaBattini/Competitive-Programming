@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
+| [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -803,6 +807,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0130-surrounded-regions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
