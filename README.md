@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0937-reorder-data-in-log-files](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0937-reorder-data-in-log-files) |
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1029-two-city-scheduling) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
+| [0994-rotting-oranges](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
