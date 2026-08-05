@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
+| [3310-remove-methods-from-project](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
+| [3310-remove-methods-from-project](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3310-remove-methods-from-project](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
