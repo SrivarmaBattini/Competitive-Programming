@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1029-two-city-scheduling) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0810-valid-tic-tac-toe-state](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0810-valid-tic-tac-toe-state) |
 | [0994-rotting-oranges](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
