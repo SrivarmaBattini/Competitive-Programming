@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0130-surrounded-regions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0404-sum-of-left-leaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0124-binary-tree-maximum-path-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
