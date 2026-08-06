@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-split-array-by-prime-indices](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3936-split-array-by-prime-indices) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3713-longest-balanced-substring-i) |
