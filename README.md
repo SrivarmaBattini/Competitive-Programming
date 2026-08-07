@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-split-array-by-prime-indices](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3936-split-array-by-prime-indices) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3713-longest-balanced-substring-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3689-maximum-total-subarray-value-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3936-split-array-by-prime-indices](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3936-split-array-by-prime-indices) |
 ## Sliding Window
 |  |
