@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1029-two-city-scheduling) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0994-rotting-oranges](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0994-rotting-oranges](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
 | [3310-remove-methods-from-project](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0542-01-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
+| [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
