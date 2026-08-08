@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3713-longest-balanced-substring-i) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3689-maximum-total-subarray-value-i) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
