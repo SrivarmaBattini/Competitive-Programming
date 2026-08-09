@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0633-sum-of-square-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1029-two-city-scheduling) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0209-minimum-size-subarray-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0542-01-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
@@ -875,16 +879,19 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 ## Bidirectional Search
 |  |
