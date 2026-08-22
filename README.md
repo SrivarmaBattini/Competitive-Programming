@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3849-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3849-equal-sum-grid-partition-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-split-array-by-prime-indices](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3936-split-array-by-prime-indices) |
+| [4020-elevator-requests-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4020-elevator-requests-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3612-process-string-with-special-operations-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3612-process-string-with-special-operations-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3838-weighted-word-mapping](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3838-weighted-word-mapping) |
+| [4020-elevator-requests-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4020-elevator-requests-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Stack
 |  |
