@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0290-word-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0402-remove-k-digits) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3713-longest-balanced-substring-i) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0918-maximum-sum-circular-subarray) |
 ## Iterator
 |  |
