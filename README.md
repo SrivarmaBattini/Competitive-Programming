@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0020-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | ------- |
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0844-backspace-string-compare) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
