@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0692-top-k-frequent-words](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0209-minimum-size-subarray-sum](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1732-find-the-highest-altitude) |
