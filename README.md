@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0012-integer-to-roman](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0054-spiral-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
