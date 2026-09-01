@@ -928,4 +928,8 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
