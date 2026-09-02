@@ -8,6 +8,6 @@ FROM (
            MAX(E.salary) OVER(PARTITION BY D.id) AS HS
     FROM Employee E
     LEFT JOIN Department D
-        ON E.departmentId = D.id
+    ON E.departmentId = D.id
 ) t
 WHERE Salary = HS;
