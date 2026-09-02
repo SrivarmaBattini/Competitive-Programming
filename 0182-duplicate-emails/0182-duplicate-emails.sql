@@ -7,7 +7,14 @@
 --     WHERE M.email = P.email 
 -- );
 
-SELECT email AS Email 
-FROM Person
-GROUP BY email 
-HAVING COUNT(email) > 1;
+-- SELECT email AS Email 
+-- FROM Person
+-- GROUP BY email 
+-- HAVING COUNT(email) > 1;
+
+SELECT DISTINCT email AS Email 
+FROM (
+    SELECT email, COUNT(email) OVER(PARTITION BY email) AS OCCUR
+    FROM Person
+) t
+WHERE OCCUR > 1;
