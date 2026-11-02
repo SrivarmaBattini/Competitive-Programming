@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0202-happy-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0496-next-greater-element-i) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0179-largest-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0179-largest-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0853-car-fleet) |
