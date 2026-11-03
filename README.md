@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-split-array-by-prime-indices](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3936-split-array-by-prime-indices) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3731-find-missing-elements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3748-sort-matrix-by-diagonals) |
 | [3838-weighted-word-mapping](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3838-weighted-word-mapping) |
 | [3849-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3849-equal-sum-grid-partition-i) |
