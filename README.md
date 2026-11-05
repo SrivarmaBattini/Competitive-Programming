@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1406-stone-game-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1029-two-city-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0941-sort-array-by-parity](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2187-minimum-time-to-complete-trips](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2187-minimum-time-to-complete-trips) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2968-apply-operations-to-maximize-frequency-score) |
