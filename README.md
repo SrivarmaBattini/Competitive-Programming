@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1267-count-servers-that-communicate](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
+| [1267-count-servers-that-communicate](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1267-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0169-majority-element](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
+| [1267-count-servers-that-communicate](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1267-count-servers-that-communicate) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3713-longest-balanced-substring-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0733-flood-fill](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1162-as-far-from-land-as-possible) |
+| [1267-count-servers-that-communicate](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
@@ -877,6 +882,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [0200-number-of-islands](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/1267-count-servers-that-communicate) |
 | [2573-find-the-string-with-lcp](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
