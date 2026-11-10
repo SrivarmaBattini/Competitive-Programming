@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3637-trionic-array-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3693-climbing-stairs-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3693-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
