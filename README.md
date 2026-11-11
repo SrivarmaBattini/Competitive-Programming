@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3345-smallest-divisible-digit-product-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-split-array-by-prime-indices](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3936-split-array-by-prime-indices) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3689-maximum-total-subarray-value-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Sorting
