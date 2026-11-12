@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-find-words-containing-character](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
