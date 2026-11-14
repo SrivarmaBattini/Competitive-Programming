@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3719-longest-balanced-subarray-i) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
 |  |
 | ------- |
