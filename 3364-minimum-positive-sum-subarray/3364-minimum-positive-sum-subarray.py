@@ -1,8 +1,5 @@
 class Solution:
     def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
-        
-        # if len(nums) == l and l == r:
-        #     return sum(nums) if sum(nums) > 0 else -1
 
         res = float('inf')
         for i in range(l, r + 1):
