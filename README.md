@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2965-find-missing-and-repeated-values](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding and programming skills! - C
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2390-removing-stars-from-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3360-stone-removal-game](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3612-process-string-with-special-operations-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SrivarmaBattini/Competitive-Programming/tree/master/3732-calculate-score-after-performing-instructions) |
